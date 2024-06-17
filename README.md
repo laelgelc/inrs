@@ -1,2 +1,2 @@
-# inrs
+# genrepoinrs
 Generic repo for INRS projects
